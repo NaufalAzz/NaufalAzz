@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🔍 I’m looking to **course abaout Data Science and Backend Develop**
+- 🔍 I’m looking to **course abaout Full Stack Developer**
 
-- 🤝 I’m looking for help with **Data Science and Backend Develop**
+- 🤝 I’m looking for help with **Data Science and Full Stack Develop**
 
 - 💬 Ask me about **my goals**
 
