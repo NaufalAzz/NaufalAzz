@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaufalAzz&label=Profile%20views&base=48&abbreviated=true&color=252da1&style=for-the-badge" alt="NaufalAzz" /> </p>
   <h3> I want to be Full Stack Developer || Self-Taught Developer </h3>
   
-  - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" align=center /></span>
-  - Exploring <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="30" align="center" /></span>
+  - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo" title="C" height="30" align=center /></span>
+  - Exploring <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="Javascript" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="30" align="center" /></span>
 
 <h3 align="left">Connect with me:</h3>
 
