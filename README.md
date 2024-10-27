@@ -4,7 +4,7 @@
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NaufalAzz&label=Profile%20views&base=48&abbreviated=true&color=252da1&style=for-the-badge" alt="NaufalAzz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NaufalAzz&label=Profile%20views&base=1&abbreviated=true&color=252da1&style=for-the-badge" alt="NaufalAzz" /> </p>
   <h3> I want to be Full Stack Developer || Self-Taught Developer </h3>
   
   - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo" title="C" height="30" align=center /></span>
